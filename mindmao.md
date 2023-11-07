@@ -1,0 +1,15 @@
+```mermaid
+mindmap
+root((HTML))
+    body
+    head
+        title
+        meta
+    body
+     ((textos))
+       h1-h7
+       p
+       pre
+       a
+     ((inputs))
+```
