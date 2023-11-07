@@ -18,6 +18,22 @@ root((HTML))
         email
         color
         file
+     ((media))
+        img
+        video
+        audio
+        svg
+     ((container))
+        span
+        div
+    ((events))
+        onclick
+        onchange
+    ((atributos))
+        id
+        class
+        src
+        hidden
 
     
 ```
