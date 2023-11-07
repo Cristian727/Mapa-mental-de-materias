@@ -1,7 +1,6 @@
 ```mermaid
 mindmap
 root((HTML))
-    body
     head
         title
         meta
@@ -12,4 +11,13 @@ root((HTML))
        pre
        a
      ((inputs))
+        text
+        password
+        number
+        range
+        email
+        color
+        file
+
+    
 ```
